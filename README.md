@@ -102,7 +102,7 @@ int main() {
 
 
 ## OUTPUT
-![Alt text](<../Screenshot at 2026-03-14 16-27-22.png>)
+![Alt text](<Screenshot at 2026-03-14 16-27-22.png>)
 $ ./sem.o 
 
 
